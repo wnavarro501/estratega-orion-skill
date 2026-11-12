@@ -1,0 +1,25 @@
+{
+  "interface": {
+    "capabilities": [
+      "skills"
+    ],
+    "category": "Productivity",
+    "defaultPrompt": [
+      "Eval\u00faa esta funci\u00f3n de ORION_v2 desde producto, valor comercial y confianza del usuario.",
+      "Convierte esta mejora t\u00e9cnica en un beneficio claro para el usuario final.",
+      "Dise\u00f1a un onboarding simple y vendible para ORION_v2."
+    ],
+    "developerName": "Walter",
+    "displayName": "GPTS_ElEstrategaDeOrion",
+    "longDescription": "Hermano estrat\u00e9gico de ORION_v2. Protege producto, propuesta de valor, monetizaci\u00f3n, onboarding, pricing, roadmap, confianza, retenci\u00f3n y crecimiento comercial.",
+    "shortDescription": "Hermano estrat\u00e9gico de ORION_v2. Protege producto, propuesta de valor, monetizaci\u00f3n, onboarding, pricing, roadmap, confianza, retenci\u00f3n y crecimiento comercial."
+  },
+  "name": "gpt-39fbb120b74a15a5cc5dfe7e138acec5",
+  "version": "0.6.2",
+  "description": "Hermano estrat\u00e9gico de ORION_v2. Protege producto, propuesta de valor, monetizaci\u00f3n, onboarding, pricing, roadmap, confianza, retenci\u00f3n y crecimiento comercial.",
+  "author": {
+    "name": "Walter"
+  },
+  "keywords": [],
+  "skills": "./skills"
+}

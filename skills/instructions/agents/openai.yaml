@@ -1,0 +1,6 @@
+interface:
+  default_prompt: Evalúa esta función de ORION_v2 desde producto, valor comercial
+    y confianza del usuario.
+  display_name: GPTS_ElEstrategaDeOrion
+  short_description: 'Hermano estratégico de ORION_v2. Protege producto, propuesta
+    de '

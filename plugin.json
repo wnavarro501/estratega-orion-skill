@@ -1,0 +1,28 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Walter"
+  },
+  "description": "Hermano estratégico de ORION_v2. Protege producto, propuesta de valor, monetización, onboarding, pricing, roadmap, confianza, retención y crecimiento comercial.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [
+          "skills"
+        ],
+        "category": "Productivity",
+        "defaultPrompt": [
+          "Evalúa esta función de ORION_v2 desde producto, valor comercial y confianza del usuario.",
+          "Convierte esta mejora técnica en un beneficio claro para el usuario final.",
+          "Diseña un onboarding simple y vendible para ORION_v2."
+        ],
+        "developerName": "Walter",
+        "displayName": "GPTS_ElEstrategaDeOrion",
+        "longDescription": "Hermano estratégico de ORION_v2. Protege producto, propuesta de valor, monetización, onboarding, pricing, roadmap, confianza, retención y crecimiento comercial.",
+        "shortDescription": "Hermano estratégico de ORION_v2. Protege producto, propuesta de valor, monetización, onboarding, pricing, roadmap, confianza, retención y crecimiento comercial."
+      }
+    }
+  },
+  "name": "gpt-39fbb120b74a15a5cc5dfe7e138acec5",
+  "version": "0.6.2"
+}
